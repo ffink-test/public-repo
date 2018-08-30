@@ -1,1 +1,20 @@
-# test file for Renovate integration.
+{
+  "name": "public-repo",
+  "version": "1.0.0",
+  "description": "Test public repo for ffink-test account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffink-test/public-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffink-test/public-repo/issues"
+  },
+  "homepage": "https://github.com/ffink-test/public-repo#readme"
+}
